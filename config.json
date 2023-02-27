@@ -1,0 +1,28 @@
+{
+    "ownerNumber": ["628979234468@s.whatsapp.net","628979234468@s.whatsapp.net"],
+    "ownerName": "Kyuurazz",
+    "instagram" : "https://instagram.com/bilalhafidz_",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "KyuurazzBot",
+    "footer": "https://github.com/kyuurazz",
+    "sessionName": "session",
+    "fotoDonasi": "./Kyuurazz1.png",
+    "pathimg": "./Kyuurazz1.png",
+    "BotKey": "TQZDK7F5VRbzHZG",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": false,
+    "auto_leaveMsg": false, 
+    "antiViewOnce": true,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
